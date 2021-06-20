@@ -1,0 +1,100 @@
+{
+    "books": [
+        {
+            "id": "cf_1",
+            "title": "El hombre bicentenario",
+            "author": "Isaac Asimov",
+            "genre": "Ciencia ficción"
+        },
+        {
+            "id": "ne_1",
+            "title": "Lobo de mar",
+            "author": "Jack London",
+            "genre": "Narrativa extranjera"
+        },
+        {
+            "id": "np_1",
+            "title": "El legado de los huesos",
+            "author": "Dolores Redondo",
+            "genre": "Narrativa policíaca"
+        },
+        {
+            "id": "dc_1",
+            "title": "El error de Descartes",
+            "author": "Antonio Damasio",
+            "genre": "Divulgación científica"
+        },
+        {
+            "id": "dc_2",
+            "title": "El ingenio de los pájaros",
+            "author": "Jennifer Ackerman",
+            "genre": "Divulgación científica"
+        },
+        {
+            "id": "ne_1",
+            "title": "El corazón de las tinieblas",
+            "author": "Joseph Conrad",
+            "genre": "Narrativa extranjera"
+        },
+        {
+            "id": "dc_5",
+            "title": "Metro 2033",
+            "author": "Dmitri Glujovski",
+            "genre": "Divulgación científica"
+        },
+        {
+            "id": "dc_5",
+            "title": "Sidharta",
+            "author": "Hermann Hesse",
+            "genre": "Narrativa extranjera"
+        },
+        {
+            "id": "el_1",
+            "title": "Andres Trapiello",
+            "author": "Las armas y las letras",
+            "genre": "Narrativa extranjera"
+        },
+        {
+            "id": "yd_pjr",
+            "title": "La vida de Momo",
+            "author": "Momo",
+            "genre": "Autoayuda"
+        },
+        {
+            "id": "fp_rdi",
+            "title": "Wow Classic",
+            "author": "Blizzard",
+            "genre": "Ciencia ficción"
+        },
+        {
+            "id": "zp_f8h",
+            "title": "Dragon Ball",
+            "author": "Akira Toriyama",
+            "genre": "Manga"
+        },
+        {
+            "id": "dh_03a",
+            "title": "Super Dragon Ball",
+            "author": "Akira Toriyama",
+            "genre": "Manga"
+        },
+        {
+            "id": "aa_1",
+            "title": "El poder del ahora",
+            "author": "Ekhart Tolle",
+            "genre": "Narrativa extranjera"
+        },
+        {
+            "id": "gy_462",
+            "title": "Data Science",
+            "author": "Julio Maldonado",
+            "genre": "Divulgación científica"
+        },
+        {
+            "id": "dw_p82",
+            "title": "Python basic",
+            "author": "Momo",
+            "genre": "Divulgación científica"
+        }
+    ]
+}
